@@ -1,0 +1,30 @@
+Goal:
+Build a reproducible data analysis report using Quarto including airports, Monte Carlo simulation, and calcium dataset analysis.
+
+Needs:
+RStudio, tidyverse, ggplot2, Quarto, GitHub repo, calcium.csv
+
+Steps:
+1. Import and clean datasets
+2. Perform exploratory analysis
+3. Build visualizations
+4. Write narrative explanations
+5. Render Quarto to PDF
+
+------------------------------------------------
+
+REPO MANAGEMENT PLAN
+
+Goal:
+Use GitHub to maintain version control and reproducibility.
+
+Needs:
+GitHub repository, branches, commits, issues, pull requests
+
+Steps:
+1. Create GitHub repo for HW 4.4
+2. Create main + analysis branches
+3. Use issues to track tasks
+4. Commit changes regularly with messages
+5. Push updates to GitHub
+6. Merge final branch into main via pull request
